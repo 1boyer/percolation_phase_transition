@@ -1,3 +1,7 @@
+/*********************
+ Written by Lance Boyer 2014
+**********************/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include "rnglong.h"
